@@ -51,6 +51,27 @@ header a.activo{
     font-weight: bolder;
 }
 
+h1 {
+    font-size: 32px;
+    margin-bottom: 20px;
+    color: #4cafa7;
+    text-align: center;
+}
+
+h2 {
+
+    font-size: 32px;
+    margin-bottom: 20px;
+    color: #4cafa7;
+    text-align: center
+}
+
+h3 {
+    margin-top: 20px;
+    color: #4cafa7;
+    font-size: 20px;
+}
+
 /* RESPONSIVE */
 
 @media screen and (max-width: 768px) {
