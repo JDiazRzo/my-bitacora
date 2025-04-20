@@ -44,7 +44,7 @@ main {
 }
 
 .icono {
-    width: 100px; /* Ajustalo a tu gusto */
+    width: 100px;
     height: 100px;
     border-radius: 50%; 
     object-fit: cover;
