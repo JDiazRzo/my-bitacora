@@ -15,7 +15,7 @@ main {
 }
 
 .about-me {
-    background-image: url('/img/fondo-index.webp');
+    background-image: url('img/fondo-index.webp');
     background-size: cover;
     background-position: center;
     padding: 100px 20px;
