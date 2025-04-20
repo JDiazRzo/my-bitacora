@@ -14,6 +14,11 @@ main {
     
 }
 
+section h1{
+    text-align: center;
+    color: #4cafa7;
+}
+
 .about-me {
     background-image: url('../img/fondo-index.webp');
     background-size: cover;
