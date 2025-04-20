@@ -26,9 +26,20 @@ header nav{
     padding-top: 20px;
 }
 
+header a.activo{
+    color: #4cafa7;
+    font-weight: bolder;
+}
+
+
 header nav ul{
     margin: 0;
     padding: 0;
+}
+
+section h1{
+    text-align: center;
+    color: #4cafa7;
 }
 
 nav ul li {
