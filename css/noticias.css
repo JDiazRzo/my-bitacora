@@ -1,3 +1,8 @@
+header nav ul li:nth-child(2) a{
+    font-weight: bold;
+    color: #4cafa7;
+}
+
 .grid-contenedor {
     display: grid;
     grid-template-columns: 200px 200px 200px 200px 200px; 
@@ -7,7 +12,9 @@
         "box-1 box-1 box-6 box-2 box-2"
         "box-1 box-1 box-6 box-2 box-2"
         "box-3 box-3 box-5 box-5 box-4"
-        "box-3 box-3 box-5 box-5 box-4";
+        "box-3 box-3 box-5 box-5 box-4"
+        "box-7 box-7 box-8 box-9 box-9"
+        "box-7 box-7 box-8 box-9 box-9";
 
 }
 
